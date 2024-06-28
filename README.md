@@ -41,7 +41,7 @@ PubMedVision could significantly improve the medical multimodal capabilities of 
 | LLaVA-v1.5-LLaMA3-8B + **PubMedVision** | **75.1**    | **49.1**                   |
 
 ## 👨‍⚕️ HuatuoGPT-Vision
-HuatuoGPT-Vision is our medical multimodal LLM, built on **PubMedVision**.
+HuatuoGPT-Vision is our medical multimodal LLMs, built on **PubMedVision**.
 
 ### Model Access
 Our model is available on Huggingface in two versions:
