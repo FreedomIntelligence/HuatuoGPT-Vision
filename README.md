@@ -9,7 +9,7 @@
 
 <div align="center">
 <h4>
-  📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/ALLaVA-4V" target="_blank">PubMedVision</a> 
+  📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/PubMedVision" target="_blank">PubMedVision</a> 
 </h4>
 </div>
 
