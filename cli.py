@@ -363,8 +363,8 @@ if __name__ =="__main__":
     bot = HuatuoChatbot(args.model_dir, args.device)
 
     # test
-    print(bot.inference('what show in this picture?',['./output.png']))
-    print(bot.inference('hi'))
+    # print(bot.inference('what show in this picture?',['./output.png']))
+    # print(bot.inference('hi'))
 
     while True:
         images = input('images, split by ",": ')
