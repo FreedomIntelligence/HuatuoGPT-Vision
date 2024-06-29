@@ -24,7 +24,7 @@
 - [06/26/2024]: We released [PubMedVision](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision), a **1.3M** high-quality medical VQA dataset for injecting medical visual knowledge.
 
 ## 🩻 PubMedVision
-- **PubMedVision** is a large-scale, high-quality medical VQA dataset, constructed from the image-text pairs from PubMed and reformatted using `GPT-4V`.
+- **PubMedVision** is a large-scale, high-quality medical VQA dataset, constructed from the image-text pairs from PubMed and reformatted using GPT-4V.
 
 |                             | # Data     | Download |
 | ------------------ | ---------- | ------------- | 
