@@ -25,7 +25,7 @@
 
 ## 🩻 PubMedVision
 We leveraged GPT-4V to reformat the image-text pairs from PubMed, creating a **1.3 million** high-quality medical VQA dataset, PubMedVision.
-|                             | # Data     | Data Download |
+|                             | # Data     | Download |
 | ------------------ | ---------- | ------------- | 
 | **PubMedVision Dataset**   | **1,294,062** | [HF Link](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision) |
 
