@@ -50,14 +50,18 @@ Our model is available on Huggingface in two versions:
 | **HuatuoGPT-Vision-7B**  | Qwen2-7B           | [HF Link](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-7B)             |
 | **HuatuoGPT-Vision-34B** | Yi-1.5-34B         | [HF Link](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-34B)            |
 
-### Command Line Interface
-Run conversational inference via the command line:
+### Model Usage
+
+- **Command Line Interface**
+
+Chat via the command line:
 ```bash
 python cli.py --model_dir path-to-huatuogpt-vision-model
 ```
 
-### Model Inference
-Perform inference using our ChatBot:
+- **Model Inference**
+
+Inference using our ChatBot:
 ```python
 query = 'What does the picture show?'
 image_paths = ['image_path1']
