@@ -24,7 +24,10 @@
 - [06/26/2024]: We released [PubMedVision](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision), a **1.3M** high-quality medical VQA dataset for injecting medical visual knowledge.
 
 ## 🩻 PubMedVision
-We leveraged GPT-4V to reformat the image-text pairs from PubMed, creating a **1.3 million** high-quality medical VQA dataset, PubMedVision. PubMedVision can be found [here](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision).
+We leveraged GPT-4V to reformat the image-text pairs from PubMed, creating a **1.3 million** high-quality medical VQA dataset, PubMedVision.
+|                             | # Data     | Data Download |
+| ------------------ | ---------- | ------------- | 
+| **PubMedVision Dataset**   | **1,294,062** | [HF Link](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision) |
 
 PubMedVision could significantly improve the medical multimodal capabilities of MLLMs such as LLaVA-v1.5. Experimental results:
 
