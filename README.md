@@ -63,7 +63,7 @@ query = 'What does the picture show?'
 image_paths = ['image_path1']
 
 from cli import HuatuoChatbot
-bot = HuatuoChatbot(model_path)
+bot = HuatuoChatbot(path-to-huatuogpt-vision-model)
 output = bot.inference(query, image_paths)
 print(output) # Prints the output of the model
 ```
@@ -73,12 +73,14 @@ print(output) # Prints the output of the model
 |-----------------------------|-------------|-----------|-------------|-------------|
 | LLaVA-Med-7B                   | 51.4        | 48.6      | 56.8        | 24.7        |
 | LLaVA-v1.6-34B              | 58.6        | 67.3      | 59.1        | 44.4        |
+| **HuatuoGPT-Vision-7B**         | 63.7        | 76.2     | 57.9        | 54.3        |
 | **HuatuoGPT-Vision-34B**        | **68.1**    | **76.9**  | **63.5**    | **58.2**    |
 
 |                           | **OmniMedVQA**  | **MMMU Health & Medicine (Test Set)** |
 |---------------------------|-----------------|---------------------------------------|
 | LLaVA-Med-7B                 | 44.5            | 36.9                                  |
 | LLaVA-v1.6-34B            | 61.4            | 48.8                                  |
+| **HuatuoGPT-Vision-7B**        | 74.0            | 50.6                                  |
 | **HuatuoGPT-Vision-34B**      | **76.9**        | **54.4**                               |
 
 ## 🩺 HuatuoGPT Series 
