@@ -57,6 +57,7 @@ class HuatuoChatbot():
             
         elif 'huatuogpt' in d.lower():
             print(f'loading from {self.model_dir}')
+            from llava.model.language_model.llava_llama import LlavaLlamaForCausalLM
             model, loading_info = LlavaLlamaForCausalLM.from_pretrained(self.model_dir, init_vision_encoder_from_ckpt=True, output_loading_info=True, torch_dtype=torch.bfloat16)
             missing_keys = loading_info['missing_keys'] # keys exists in model architecture but does not exist in ckpt
             unexpected_keys = loading_info['unexpected_keys'] # keys exists in ckpt but are not loaded by the model 
