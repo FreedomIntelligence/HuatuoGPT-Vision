@@ -3,7 +3,7 @@
 
 <div align="center">
 <h5>
-  📃 <a href="https://arxiv.org/abs/2406.19280" target="_blank">Paper</a>  • 🖥️ <a href="#" target="_blank">Demo (coming)</a>
+  📃 <a href="https://arxiv.org/abs/2406.19280" target="_blank">Paper</a>  • 🖥️ <a href="https://vision.huatuogpt.cn/#/" target="_blank">Demo</a>
 </h5>
 </div>
 
