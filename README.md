@@ -6,7 +6,7 @@
   📃 <a href="https://arxiv.org/abs/2406.19280" target="_blank">Paper</a>  • 🖥️ <a href="https://vision.huatuogpt.cn/#/" target="_blank">Demo</a>
 </h5>
 </div>
-
+ 
 <div align="center">
 <h4>
   📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/PubMedVision" target="_blank">PubMedVision</a> 
